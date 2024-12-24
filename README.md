@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 ### Author
-**[Your Name](https://www.linkedin.com/in/kirti-pratihar-426072279)**
+**[Kirti Pratihar](https://www.linkedin.com/in/kirti-pratihar-426072279)**
